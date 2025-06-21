@@ -1,9 +1,7 @@
 # Autonomous Driving Vision System
 
 Real-time traffic sign detection and lane tracking on Jetson TX2.
-
-**Team of 3** | Jetson TX2, GoPro  
-**Technologies:** Python, OpenCV, YOLOv4-Tiny, ONNX, TensorRT
+**Technologies:** Python, OpenCV, YOLOv4-Tiny, ONNX, TensorRT, Jetson TX2, GoPro  
 
 - Trained YOLOv4-Tiny on a custom traffic sign dataset using Google Colab  
 - Converted model to ONNX and deployed it with TensorRT for real-time inference  
