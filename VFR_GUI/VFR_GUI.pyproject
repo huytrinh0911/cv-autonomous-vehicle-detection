@@ -1,0 +1,10 @@
+{
+    "files": [
+        "../../Intergrated_protocol/nanopb/generator/proto/nanopb_pb2.py",
+        "../../Intergrated_protocol/python_output/protocol_pb2.py",
+        "protocol_parser_qt.py",
+        "vfr_gui_main.py",
+        "vfr_gui_mainwindow.py",
+        "vfr_gui_mainwindow.ui"
+    ]
+}
