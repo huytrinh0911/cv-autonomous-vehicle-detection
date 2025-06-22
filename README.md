@@ -1,5 +1,5 @@
 # Autonomous Driving Vision System
-
+Team of 3  
 Real-time traffic sign detection and lane tracking on Jetson TX2.  
 **Technologies:** Python, OpenCV, YOLOv4-Tiny, ONNX, TensorRT, Jetson TX2, GoPro  
 
