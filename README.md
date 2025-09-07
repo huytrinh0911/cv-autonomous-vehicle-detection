@@ -9,7 +9,8 @@ Real-time traffic sign detection and lane tracking on Jetson TX2.
 ## Overview
 This project implements an **autonomous driving assistance system** capable of:
 - **Lane keeping** using real-time camera input.
-- **Traffic sign detection and recognition** for 8 predefined classes using **YOLOv4-tiny** with **20 FPS**.
+- **Traffic sign detection and recognition** for 8 predefined classes using **YOLOv4-tiny** with **20 FPS**.  
+- Achieved **F1-score of 91%** and **mAP@50 of 90%** in object detection tasks.
 - **Vehicle control and monitoring** via a graphical user interface (GUI).
 - **Automated driving decisions** such as slowing down, turning, or stopping, based on recognized traffic signs or user commands.
 
